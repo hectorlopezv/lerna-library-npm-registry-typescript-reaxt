@@ -1,7 +1,7 @@
 {
   "name": "@libprov/selector",
-  "version": "2.0.11",
-  "description": "Selector Component for Compensar component Library - React/Typescript",
+  "version": "1.0.3",
+  "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
   "author": "Hector Vinicio Lopez Molinares <hectorvmlopez@gmail.com>",
   "license": "ISC",
@@ -25,18 +25,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hectorlopezv/yarn-monorepo-first-approach.git"
+    "url": "git+https://github.com/compensar-globant-projectos/compensar_library.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
     "build": "rollup --config node_modules/@libprov/builder/lib/rollup.config.js"
   },
   "bugs": {
-    "url": "https://github.com/hectorlopezv/yarn-monorepo-first-approach/issues"
+    "url": "https://github.com/compensar-globant-projectos/compensar_library/issues"
   },
-  "homepage": "https://github.com/hectorlopezv/yarn-monorepo-first-approach#readme",
+  "homepage": "https://github.com/compensar-globant-projectos/compensar_library#readme",
   "devDependencies": {
-    "@libprov/builder": "^2.0.7",
+    "@libprov/builder": "^2.0.10",
     "@types/react-custom-scrollbars": "^4.0.8",
     "@types/react-select": "^4.0.17"
   },
@@ -44,6 +44,5 @@
     "react": "^17.0.2",
     "react-custom-scrollbars": "^4.2.1",
     "react-select": "^4.3.1"
-  },
-  "gitHead": "84382e86f1fdb149edb3688a9d23ce75111fcf1f"
+  }
 }

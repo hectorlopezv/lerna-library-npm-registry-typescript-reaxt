@@ -1,7 +1,7 @@
 {
   "name": "@libprov/proveedores",
-  "version": "2.0.17",
-  "description": "Way to import all components in one go...",
+  "version": "1.0.3",
+  "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
   "author": "Hector Vinicio Lopez Molinares <hectorvmlopez@gmail.com>",
   "license": "ISC",
@@ -17,46 +17,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hectorlopezv/yarn-monorepo-first-approach.git"
+    "url": "git+https://github.com/compensar-globant-projectos/compensar_library.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
     "build": "rollup --config node_modules/@libprov/builder/lib/rollup.config.js"
   },
   "bugs": {
-    "url": "https://github.com/hectorlopezv/yarn-monorepo-first-approach/issues"
+    "url": "https://github.com/compensar-globant-projectos/compensar_library/issues"
   },
-  "homepage": "https://github.com/hectorlopezv/yarn-monorepo-first-approach#readme",
-  "dependencies": {
-    "@libprov/alertf": "^2.0.7",
-    "@libprov/btndown": "^1.0.7",
-    "@libprov/buttons": "^2.0.7",
-    "@libprov/card": "^2.0.8",
-    "@libprov/cards": "^2.0.8",
-    "@libprov/date": "^2.0.9",
-    "@libprov/dots": "^2.0.7",
-    "@libprov/draganddropfile": "^1.0.6",
-    "@libprov/filelist": "^1.0.6",
-    "@libprov/filter": "^2.0.7",
-    "@libprov/infouser": "^2.0.7",
-    "@libprov/input": "^1.0.9",
-    "@libprov/labelvalue": "^2.0.7",
-    "@libprov/labelvaluerow": "^2.0.7",
-    "@libprov/loader": "^2.0.7",
-    "@libprov/message": "^2.0.7",
-    "@libprov/paginator": "^2.0.7",
-    "@libprov/pdf": "^2.0.9",
-    "@libprov/phase1": "^2.0.7",
-    "@libprov/phase2": "^2.0.7",
-    "@libprov/radio": "^2.0.7",
-    "@libprov/section": "^2.0.7",
-    "@libprov/selector": "^2.0.11",
-    "@libprov/smilef": "^2.0.7",
-    "@libprov/table": "^2.0.7",
-    "@libprov/tooltip": "^2.0.7"
+  "homepage": "https://github.com/compensar-globant-projectos/compensar_library#readme",
+  "peerDependencies": {
+    "react": "^17.0.2"
   },
   "devDependencies": {
-    "@libprov/builder": "^2.0.7"
-  },
-  "gitHead": "84382e86f1fdb149edb3688a9d23ce75111fcf1f"
+    "@libprov/builder": "^2.0.10"
+  }
 }
