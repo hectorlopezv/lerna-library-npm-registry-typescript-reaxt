@@ -1,6 +1,6 @@
 {
-  "name": "@libprov/section",
-  "version": "3.0.0",
+  "name": "@artefactos/section",
+  "version": "3.0.1",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
   "author": "Hector Vinicio Lopez Molinares <hectorvmlopez@gmail.com>",
@@ -29,14 +29,14 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
-    "build": "rollup --config node_modules/@libprov/builder/lib/rollup.config.js"
+    "build": "rollup --config node_modules/@artefactos/builder/lib/rollup.config.js"
   },
   "bugs": {
     "url": "https://github.com/compensar-globant-projectos/compensar_library/issues"
   },
   "homepage": "https://github.com/compensar-globant-projectos/compensar_library#readme",
   "devDependencies": {
-    "@libprov/builder": "^4.0.0",
+    "@artefactos/builder": "^4.0.1",
     "@types/styled-components": "^5.1.11"
   },
   "peerDependencies": {
