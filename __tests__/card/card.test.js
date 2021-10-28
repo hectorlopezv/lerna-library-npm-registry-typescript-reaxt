@@ -3,7 +3,7 @@ import {render as rtlRender, screen} from '@testing-library/react'
 import user from '@testing-library/user-event'
 
 import * as router from 'react-router-dom'
-import {Card} from '@libprov/card/lib/card'
+import {Card} from '@artefactos/card/lib/card'
 function render(ui, {route = '/', ...renderOptions} = {}) {
   // we'll set our route properly here
   window.history.pushState({}, 'Test page', route)

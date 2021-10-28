@@ -1,7 +1,7 @@
 import React from 'react'
 import {render, screen} from '@testing-library/react'
 import user from '@testing-library/user-event'
-import {Date} from '@libprov/date/lib/date'
+import {Date} from '@artefactos/date/lib/date'
 describe('testing suite', () => {
   it('testing unit Date', () => {
     const dateHandler = jest.fn()

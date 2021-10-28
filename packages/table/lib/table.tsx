@@ -1,7 +1,7 @@
 import React from 'react'
 
 import {PaginatorArrows} from './paginatorPanel'
-import {SliderTable} from '@libprov/dots'
+import {SliderTable} from '@artefactos/dots'
 
 import SimpleBar from 'simplebar' // or "import SimpleBar from 'simplebar';" if you want to use it manually.
 import 'simplebar/dist/simplebar.css'

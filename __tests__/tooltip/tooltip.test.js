@@ -1,7 +1,7 @@
 import React from 'react'
 import {render, screen, waitFor} from '@testing-library/react'
 import user from '@testing-library/user-event'
-import {ToolTipc} from '@libprov/tooltip/lib/tooltip'
+import {ToolTipc} from '@artefactos/tooltip/lib/tooltip'
 
 describe('testing suite', () => {
   it('testing unit Tooltip', async () => {

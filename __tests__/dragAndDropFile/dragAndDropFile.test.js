@@ -4,7 +4,7 @@ import React from 'react'
 import {render, screen} from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
 
-import {DragDropFile} from '@libprov/draganddropfile/lib/dragAndDropFile'
+import {DragDropFile} from '@artefactos/draganddropfile/lib/dragAndDropFile'
 describe('testing suite DragDropFile', () => {
   let file
 

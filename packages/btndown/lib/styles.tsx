@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import FaFileArchiveIcon from './FaFileArchiveIcon'
-import {Buttons} from '@libprov/buttons'
+import {Buttons} from '@artefactos/buttons'
 interface propsZipper {
   tabIndex: number
 }

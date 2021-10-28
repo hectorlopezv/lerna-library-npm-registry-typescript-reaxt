@@ -1,4 +1,4 @@
-# `@libprov/message`
+# `@artefactos/message`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const ModalMessage = require('@libprov/message');
+const ModalMessage = require('@artefactos/message');
 
 ESM/ES6
-import {ModalMessage} from '@libprov/message'
+import {ModalMessage} from '@artefactos/message'
 ```

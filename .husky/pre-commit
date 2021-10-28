@@ -1,6 +1,5 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 lerna run build #build library for test
-yarn run lint-staged #format files prettier makes lerna detect always new changes .... when no logic changes are done...
-yarn run test #run test lint-eslint-client test...ect
-
+# yarn run lint-staged #format files prettier makes lerna detect always new changes .... when no logic changes are done...
+# yarn run test #run test lint-eslint-client test...ect

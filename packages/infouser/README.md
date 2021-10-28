@@ -1,4 +1,4 @@
-# `@libprov/infouser`
+# `@artefactos/infouser`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const InfoUser = require('@libprov/infouser');
+const InfoUser = require('@artefactos/infouser');
 
 ESM/ES6
-import {InfoUser} from '@libprov/infouser'
+import {InfoUser} from '@artefactos/infouser'
 ```

@@ -1,8 +1,8 @@
 /* eslint-disable jsx-a11y/no-noninteractive-tabindex */
 import React from 'react'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
-import {LabelValue} from '@libprov/labelvalue'
-import {LabelValueRow} from '@libprov/labelvaluerow'
+import {LabelValue} from '@artefactos/labelvalue'
+import {LabelValueRow} from '@artefactos/labelvaluerow'
 export default {
   title: 'components/LabelValueRow',
   component: LabelValueRow,

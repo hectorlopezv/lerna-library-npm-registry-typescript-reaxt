@@ -1,4 +1,4 @@
-# `@libprov/smilef`
+# `@artefactos/smilef`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const Smilef = require('@libprov/smilef');
+const Smilef = require('@artefactos/smilef');
 
 ESM/ES6
-import {Smilef} from '@libprov/smilef'
+import {Smilef} from '@artefactos/smilef'
 ```

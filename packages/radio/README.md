@@ -1,4 +1,4 @@
-# `@libprov/radio`
+# `@artefactos/radio`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const RadioHv = require('@libprov/radio');
+const RadioHv = require('@artefactos/radio');
 
 ESM/ES6
-import {RadioHv} from '@libprov/radio'
+import {RadioHv} from '@artefactos/radio'
 ```

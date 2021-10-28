@@ -652,12 +652,12 @@
           __webpack_require__.n(
             _babel_runtime_corejs3_core_js_stable_instance_bind__WEBPACK_IMPORTED_MODULE_1__,
           ),
-        _libprov_cards__WEBPACK_IMPORTED_MODULE_3__ =
+        _artefactos_cards__WEBPACK_IMPORTED_MODULE_3__ =
           (__webpack_require__(0), __webpack_require__(267)),
         react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(4)
       __webpack_exports__.default = {
         title: 'components/Cards',
-        component: _libprov_cards__WEBPACK_IMPORTED_MODULE_3__.a,
+        component: _artefactos_cards__WEBPACK_IMPORTED_MODULE_3__.a,
         argTypes: {
           classExtra: {
             name: 'classExtra',
@@ -679,7 +679,7 @@
       }
       var Template = function Template(args) {
         return Object(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)(
-          _libprov_cards__WEBPACK_IMPORTED_MODULE_3__.a,
+          _artefactos_cards__WEBPACK_IMPORTED_MODULE_3__.a,
           _babel_runtime_corejs3_core_js_stable_object_assign__WEBPACK_IMPORTED_MODULE_0___default()(
             {},
             args,
@@ -1053,12 +1053,12 @@
           __webpack_require__.n(
             _babel_runtime_corejs3_core_js_stable_instance_bind__WEBPACK_IMPORTED_MODULE_1__,
           ),
-        _libprov_btndown__WEBPACK_IMPORTED_MODULE_3__ =
+        _artefactos_btndown__WEBPACK_IMPORTED_MODULE_3__ =
           (__webpack_require__(0), __webpack_require__(268)),
         react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(4)
       __webpack_exports__.default = {
         title: 'components/Download',
-        component: _libprov_btndown__WEBPACK_IMPORTED_MODULE_3__.a,
+        component: _artefactos_btndown__WEBPACK_IMPORTED_MODULE_3__.a,
         argTypes: {
           disabled: {
             name: 'disabled',
@@ -1116,7 +1116,7 @@
       }
       var Template = function Template(args) {
         return Object(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)(
-          _libprov_btndown__WEBPACK_IMPORTED_MODULE_3__.a,
+          _artefactos_btndown__WEBPACK_IMPORTED_MODULE_3__.a,
           _babel_runtime_corejs3_core_js_stable_object_assign__WEBPACK_IMPORTED_MODULE_0___default()(
             {},
             args,
@@ -1199,17 +1199,17 @@
           __webpack_require__.n(
             _babel_runtime_corejs3_core_js_stable_instance_bind__WEBPACK_IMPORTED_MODULE_1__,
           ),
-        _libprov_labelvalue__WEBPACK_IMPORTED_MODULE_3__ =
+        _artefactos_labelvalue__WEBPACK_IMPORTED_MODULE_3__ =
           (__webpack_require__(0), __webpack_require__(269)),
         react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(4)
       __webpack_exports__.default = {
         title: 'components/LabelValue',
-        component: _libprov_labelvalue__WEBPACK_IMPORTED_MODULE_3__.a,
+        component: _artefactos_labelvalue__WEBPACK_IMPORTED_MODULE_3__.a,
         argTypes: {},
       }
       var Template = function Template(args) {
         return Object(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)(
-          _libprov_labelvalue__WEBPACK_IMPORTED_MODULE_3__.a,
+          _artefactos_labelvalue__WEBPACK_IMPORTED_MODULE_3__.a,
           _babel_runtime_corejs3_core_js_stable_object_assign__WEBPACK_IMPORTED_MODULE_0___default()(
             {
               dataColumn: [
@@ -1300,12 +1300,12 @@
           __webpack_require__.n(
             _babel_runtime_corejs3_core_js_stable_instance_bind__WEBPACK_IMPORTED_MODULE_1__,
           ),
-        _libprov_loader__WEBPACK_IMPORTED_MODULE_3__ =
+        _artefactos_loader__WEBPACK_IMPORTED_MODULE_3__ =
           (__webpack_require__(0), __webpack_require__(270)),
         react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(4)
       __webpack_exports__.default = {
         title: 'components/Loader',
-        component: _libprov_loader__WEBPACK_IMPORTED_MODULE_3__.a,
+        component: _artefactos_loader__WEBPACK_IMPORTED_MODULE_3__.a,
         argTypes: {
           loading: {
             name: 'loading',
@@ -1327,7 +1327,7 @@
       }
       var Template = function Template(args) {
         return Object(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)(
-          _libprov_loader__WEBPACK_IMPORTED_MODULE_3__.a,
+          _artefactos_loader__WEBPACK_IMPORTED_MODULE_3__.a,
           _babel_runtime_corejs3_core_js_stable_object_assign__WEBPACK_IMPORTED_MODULE_0___default()(
             {},
             args,
@@ -1395,12 +1395,12 @@
           __webpack_require__.n(
             _babel_runtime_corejs3_core_js_stable_instance_bind__WEBPACK_IMPORTED_MODULE_1__,
           ),
-        _libprov_phase1__WEBPACK_IMPORTED_MODULE_3__ =
+        _artefactos_phase1__WEBPACK_IMPORTED_MODULE_3__ =
           (__webpack_require__(0), __webpack_require__(274)),
         react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(4)
       __webpack_exports__.default = {
         title: 'components/Phase1',
-        component: _libprov_phase1__WEBPACK_IMPORTED_MODULE_3__.a,
+        component: _artefactos_phase1__WEBPACK_IMPORTED_MODULE_3__.a,
         argTypes: {
           className: {
             name: 'className',
@@ -1425,7 +1425,7 @@
       }
       var Template = function Template(args) {
         return Object(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)(
-          _libprov_phase1__WEBPACK_IMPORTED_MODULE_3__.a,
+          _artefactos_phase1__WEBPACK_IMPORTED_MODULE_3__.a,
           _babel_runtime_corejs3_core_js_stable_object_assign__WEBPACK_IMPORTED_MODULE_0___default()(
             {},
             args,
@@ -1515,12 +1515,12 @@
           __webpack_require__.n(
             _babel_runtime_corejs3_core_js_stable_instance_bind__WEBPACK_IMPORTED_MODULE_1__,
           ),
-        _libprov_phase2__WEBPACK_IMPORTED_MODULE_3__ =
+        _artefactos_phase2__WEBPACK_IMPORTED_MODULE_3__ =
           (__webpack_require__(0), __webpack_require__(275)),
         react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(4)
       __webpack_exports__.default = {
         title: 'components/Phase2',
-        component: _libprov_phase2__WEBPACK_IMPORTED_MODULE_3__.a,
+        component: _artefactos_phase2__WEBPACK_IMPORTED_MODULE_3__.a,
         argTypes: {
           className: {
             name: 'className',
@@ -1545,7 +1545,7 @@
       }
       var Template = function Template(args) {
         return Object(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)(
-          _libprov_phase2__WEBPACK_IMPORTED_MODULE_3__.a,
+          _artefactos_phase2__WEBPACK_IMPORTED_MODULE_3__.a,
           _babel_runtime_corejs3_core_js_stable_object_assign__WEBPACK_IMPORTED_MODULE_0___default()(
             {},
             args,

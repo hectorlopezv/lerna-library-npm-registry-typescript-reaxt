@@ -1,6 +1,6 @@
 import React from 'react'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
-import {ModalMessage} from '@libprov/message'
+import {ModalMessage} from '@artefactos/message'
 
 export default {
   title: 'components/ModalMessage',

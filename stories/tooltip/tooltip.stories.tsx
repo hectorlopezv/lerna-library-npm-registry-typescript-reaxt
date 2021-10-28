@@ -1,6 +1,6 @@
 import React from 'react'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
-import {ToolTipc} from '@libprov/tooltip'
+import {ToolTipc} from '@artefactos/tooltip'
 
 export default {
   title: 'components/ToolTipc',

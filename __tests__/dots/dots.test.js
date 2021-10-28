@@ -1,7 +1,7 @@
 import React from 'react'
 import {render, screen} from '@testing-library/react'
 import user from '@testing-library/user-event'
-import {SliderTable} from '@libprov/dots/lib/dots'
+import {SliderTable} from '@artefactos/dots/lib/dots'
 describe('testing suite', () => {
   it('testing unit dots', () => {
     const fnListener = jest.fn()

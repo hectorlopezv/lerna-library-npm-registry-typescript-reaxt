@@ -1,4 +1,4 @@
-# `@libprov/loader`
+# `@artefactos/loader`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const Loader = require('@libprov/loader');
+const Loader = require('@artefactos/loader');
 
 ESM/ES6
-import {Loader} from '@libprov/loader'
+import {Loader} from '@artefactos/loader'
 ```

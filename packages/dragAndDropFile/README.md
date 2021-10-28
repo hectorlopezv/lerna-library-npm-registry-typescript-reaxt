@@ -1,11 +1,11 @@
-# `@libprov/draganddropfile`
+# `@artefactos/draganddropfile`
 
 > TODO: description
 
 ## Usage
 
 ```
-const draganddropfile = require('@libprov/draganddropfile');
+const draganddropfile = require('@artefactos/draganddropfile');
 
 // TODO: DEMONSTRATE API
 ```

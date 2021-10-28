@@ -1,6 +1,6 @@
 import React, {useRef, useState} from 'react'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
-import {FilterSelect} from '@libprov/filter'
+import {FilterSelect} from '@artefactos/filter'
 
 export default {
   title: 'components/FilterSelect',

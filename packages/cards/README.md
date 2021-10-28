@@ -1,4 +1,4 @@
-# `@libprov/cards`
+# `@artefactos/cards`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const Cards = require('@libprov/cards');
+const Cards = require('@artefactos/cards');
 
 ESM/ES6
-import {Cards} from '@libprov/cards'
+import {Cards} from '@artefactos/cards'
 ```

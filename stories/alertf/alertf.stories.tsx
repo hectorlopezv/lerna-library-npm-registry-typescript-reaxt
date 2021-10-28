@@ -1,6 +1,6 @@
 import React from 'react'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
-import {Alertf} from '@libprov/alertf'
+import {Alertf} from '@artefactos/alertf'
 
 export default {
   title: 'components/Alertf',

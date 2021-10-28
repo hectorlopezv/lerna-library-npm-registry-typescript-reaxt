@@ -1,6 +1,6 @@
 import React from 'react'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
-import {Table} from '@libprov/table'
+import {Table} from '@artefactos/table'
 
 export default {
   title: 'components/Table',

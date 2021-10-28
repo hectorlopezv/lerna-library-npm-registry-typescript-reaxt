@@ -1,4 +1,4 @@
-# `@libprov/buttons`
+# `@artefactos/buttons`
 
 > TODO: description
 
@@ -8,9 +8,9 @@
 
 ```
 
-CJS const Buttons = require('@libprov/buttons');
+CJS const Buttons = require('@artefactos/buttons');
 
-ESM/ES6 import {Buttons} from '@libprov/buttons'
+ESM/ES6 import {Buttons} from '@artefactos/buttons'
 
 ```
 

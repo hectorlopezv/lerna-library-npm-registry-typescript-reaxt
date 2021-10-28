@@ -1,4 +1,4 @@
-# `@libprov/alertf`
+# `@artefactos/alertf`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const alertf = require('@libprov/alertf');
+const alertf = require('@artefactos/alertf');
 
 ESM/ES6
-import {Alertf} from '@libprov/alertf'
+import {Alertf} from '@artefactos/alertf'
 ```

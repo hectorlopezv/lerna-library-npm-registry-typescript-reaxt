@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
-import {RadioHv} from '@libprov/radio'
+import {RadioHv} from '@artefactos/radio'
 
 export default {
   title: 'components/RadioHv',

@@ -1,4 +1,4 @@
-# `@libprov/phase2`
+# `@artefactos/phase2`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const Phase2 = require('@libprov/phase2');
+const Phase2 = require('@artefactos/phase2');
 
 ESM/ES6
-import {Phase2} from '@libprov/phase2'
+import {Phase2} from '@artefactos/phase2'
 ```

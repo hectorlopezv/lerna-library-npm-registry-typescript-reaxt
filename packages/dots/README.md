@@ -1,4 +1,4 @@
-# `@libprov/dots`
+# `@artefactos/dots`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const SliderTable = require('@libprov/dots');
+const SliderTable = require('@artefactos/dots');
 
 ESM/ES6
-import {SliderTable} from '@libprov/dots'
+import {SliderTable} from '@artefactos/dots'
 ```

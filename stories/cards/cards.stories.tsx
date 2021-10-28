@@ -1,6 +1,6 @@
 import React from 'react'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
-import {Cards} from '@libprov/cards'
+import {Cards} from '@artefactos/cards'
 
 export default {
   title: 'components/Cards',

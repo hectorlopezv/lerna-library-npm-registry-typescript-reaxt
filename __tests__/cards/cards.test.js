@@ -1,7 +1,7 @@
 import React from 'react'
 import {render, screen} from '@testing-library/react'
 
-import {Cards} from '@libprov/cards/lib/cards'
+import {Cards} from '@artefactos/cards/lib/cards'
 
 describe('testing suite', () => {
   it('testing unit Cards', () => {

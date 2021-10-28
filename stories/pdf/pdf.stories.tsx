@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
-import {PdfFile} from '@libprov/pdf'
+import {PdfFile} from '@artefactos/pdf'
 
 export default {
   title: 'components/PdfFile',

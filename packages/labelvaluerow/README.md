@@ -1,4 +1,4 @@
-# `@libprov/labelvaluerow`
+# `@artefactos/labelvaluerow`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const LabelValueRow = require('@libprov/labelvaluerow');
+const LabelValueRow = require('@artefactos/labelvaluerow');
 
 ESM/ES6
-import {LabelValueRow} from '@libprov/labelvaluerow'
+import {LabelValueRow} from '@artefactos/labelvaluerow'
 ```

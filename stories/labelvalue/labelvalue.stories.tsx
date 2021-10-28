@@ -1,6 +1,6 @@
 import React from 'react'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
-import {LabelValue} from '@libprov/labelvalue'
+import {LabelValue} from '@artefactos/labelvalue'
 
 export default {
   title: 'components/LabelValue',

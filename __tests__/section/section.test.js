@@ -1,6 +1,6 @@
 import React from 'react'
 import {render, screen} from '@testing-library/react'
-import {Section} from '@libprov/section/lib/section'
+import {Section} from '@artefactos/section/lib/section'
 describe('testing suite', () => {
   it('testing unit Section', () => {
     render(

@@ -1,4 +1,4 @@
-# `@libprov/paginator`
+# `@artefactos/paginator`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const PaginationPanel = require('@libprov/paginator');
+const PaginationPanel = require('@artefactos/paginator');
 
 ESM/ES6
-import {PaginationPanel} from '@libprov/paginator'
+import {PaginationPanel} from '@artefactos/paginator'
 ```

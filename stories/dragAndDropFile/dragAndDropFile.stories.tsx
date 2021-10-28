@@ -1,5 +1,5 @@
 import React from 'react'
-import {DragDropFile} from '@libprov/dragAndDropFile'
+import {DragDropFile} from '@artefactos/draganddropfile'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
 
 export default {

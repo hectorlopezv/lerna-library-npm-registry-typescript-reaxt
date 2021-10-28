@@ -1,4 +1,4 @@
-# `@libprov/proveedores`
+# `@artefactos/proveedores`
 
 > TODO: description
 
@@ -6,9 +6,9 @@
 
 ```
 CJS
-const Download = require('@libprov/proveedores').Download;
-const AlertF = require('@libprov/proveedores').AlertF;
+const Download = require('@artefactos/proveedores').Download;
+const AlertF = require('@artefactos/proveedores').AlertF;
 
 ESM/ES6
-import {Download, AlertF, ...} from '@libprov/proveedores'
+import {Download, AlertF, ...} from '@artefactos/proveedores'
 ```

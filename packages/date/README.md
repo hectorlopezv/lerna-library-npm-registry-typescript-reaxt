@@ -1,4 +1,4 @@
-# `@libprov/date`
+# `@artefactos/date`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const Date = require('@libprov/date');
+const Date = require('@artefactos/date');
 
 ESM/ES6
-import {Date} from '@libprov/date'
+import {Date} from '@artefactos/date'
 ```

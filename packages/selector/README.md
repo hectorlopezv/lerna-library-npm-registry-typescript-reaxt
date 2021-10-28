@@ -1,4 +1,4 @@
-# `@libprov/selector`
+# `@artefactos/selector`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const Selector = require('@libprov/selector');
+const Selector = require('@artefactos/selector');
 
 ESM/ES6
-import {Selector} from '@libprov/selector'
+import {Selector} from '@artefactos/selector'
 ```

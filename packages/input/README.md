@@ -1,11 +1,11 @@
-# `@libprov/input`
+# `@artefactos/input`
 
 > TODO: description
 
 ## Usage
 
 ```
-const input = require('@libprov/input');
+const input = require('@artefactos/input');
 
 // TODO: DEMONSTRATE API
 ```

@@ -1,4 +1,4 @@
-# `@libprov/tooltip`
+# `@artefactos/tooltip`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const ToolTipc = require('@libprov/tooltip');
+const ToolTipc = require('@artefactos/tooltip');
 
 ESM/ES6
-import {ToolTipc} from '@libprov/tooltip'
+import {ToolTipc} from '@artefactos/tooltip'
 ```

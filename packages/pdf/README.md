@@ -1,4 +1,4 @@
-# `@libprov/pdf`
+# `@artefactos/pdf`
 
 > TODO: description
 
@@ -6,10 +6,10 @@
 
 ```
 CJS
-const PdfFile = require('@libprov/pdf').PdfFile;
-const Viewer = require('@libprov/pdf').Viewer;
+const PdfFile = require('@artefactos/pdf').PdfFile;
+const Viewer = require('@artefactos/pdf').Viewer;
 
 ESM/ES6
 import {PdfFile, Viewer}
-from '@libprov/pdf'
+from '@artefactos/pdf'
 ```

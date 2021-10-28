@@ -1,4 +1,4 @@
-# `@libprov/filter`
+# `@artefactos/filter`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const Filter = require('@libprov/filter');
+const Filter = require('@artefactos/filter');
 
 ESM/ES6
-import {Filter} from '@libprov/filter'
+import {Filter} from '@artefactos/filter'
 ```

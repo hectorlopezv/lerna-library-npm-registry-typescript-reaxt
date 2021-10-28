@@ -1,11 +1,11 @@
-# `@libprov/btndown`
+# `@artefactos/btndown`
 
 > TODO: description
 
 ## Usage
 
 ```
-const btndown = require('@libprov/btndown');
+const btndown = require('@artefactos/btndown');
 
 // TODO: DEMONSTRATE API
 ```

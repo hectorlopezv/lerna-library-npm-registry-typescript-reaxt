@@ -1,6 +1,6 @@
 import React from 'react'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
-import {InfoUser} from '@libprov/infouser'
+import {InfoUser} from '@artefactos/infouser'
 
 export default {
   title: 'components/InfoUser',

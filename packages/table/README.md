@@ -1,4 +1,4 @@
-# `@libprov/table`
+# `@artefactos/table`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const Table = require('@libprov/table');
+const Table = require('@artefactos/table');
 
 ESM/ES6
-import {Table} from '@libprov/table'
+import {Table} from '@artefactos/table'
 ```

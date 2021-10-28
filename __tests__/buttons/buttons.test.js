@@ -2,7 +2,7 @@ import React from 'react'
 import {render, screen} from '@testing-library/react'
 import user from '@testing-library/user-event'
 
-import {Buttons} from '@libprov/buttons/lib/buttons'
+import {Buttons} from '@artefactos/buttons/lib/buttons'
 describe('testing suite', () => {
   it('testing unit show Buttons', () => {
     const {debug, rerender} = render(<Buttons show={[false, false]} />)

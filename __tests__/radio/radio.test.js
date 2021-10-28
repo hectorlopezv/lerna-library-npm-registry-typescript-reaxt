@@ -1,6 +1,6 @@
 import {render, screen} from '@testing-library/react'
 import user from '@testing-library/user-event'
-import {RadioHv} from '@libprov/radio/lib/radio'
+import {RadioHv} from '@artefactos/radio/lib/radio'
 import React from 'react'
 
 describe('testing suite', () => {

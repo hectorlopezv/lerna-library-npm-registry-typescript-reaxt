@@ -2,7 +2,7 @@ import React from 'react'
 import {render, screen} from '@testing-library/react'
 import user from '@testing-library/user-event'
 
-import {Smilef} from '@libprov/smilef/lib/smilef'
+import {Smilef} from '@artefactos/smilef/lib/smilef'
 describe('testing suite', () => {
   it('testing unit smilef', () => {
     const {rerender} = render(<Smilef sad message1="hector" />)

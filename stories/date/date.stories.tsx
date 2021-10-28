@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
-import {Date} from '@libprov/date'
+import {Date} from '@artefactos/date'
 import moment from 'moment'
 export default {
   title: 'components/Date',

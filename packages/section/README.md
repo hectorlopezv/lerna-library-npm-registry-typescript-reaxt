@@ -1,4 +1,4 @@
-# `@libprov/section`
+# `@artefactos/section`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const Section = require('@libprov/section');
+const Section = require('@artefactos/section');
 
 ESM/ES6
-import {Section} from '@libprov/section'
+import {Section} from '@artefactos/section'
 ```
