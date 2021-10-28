@@ -1,6 +1,6 @@
 {
   "name": "@artefactos/builder",
-  "version": "4.0.12",
+  "version": "4.0.13",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
   "author": "Hector Vinicio Lopez Molinares <hectorvmlopez@gmail.com>",
@@ -35,5 +35,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "5c83a7befd0061881dcf43de109dd61da9473ac7"
+  "gitHead": "e7617d652a18e94b8ce4477e2c89f7e1c03db201"
 }
