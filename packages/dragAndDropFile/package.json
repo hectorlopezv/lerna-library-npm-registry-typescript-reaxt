@@ -1,6 +1,6 @@
 {
-  "name": "@artefactos/draganddropfile",
-  "version": "3.0.17",
+  "name": "@compensar-globant-projectos/draganddropfile",
+  "version": "1.0.2",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
   "author": "Hector Vinicio Lopez Molinares <hectorvmlopez@gmail.com>",
@@ -26,17 +26,17 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
-    "build": "rollup --config node_modules/@artefactos/builder/lib/rollup.config.js"
+    "build": "rollup --config node_modules/@compensar-globant-projectos/builder/lib/rollup.config.js"
   },
   "bugs": {
     "url": "https://github.com/compensar-globant-projectos/compensar_library/issues"
   },
   "homepage": "https://github.com/compensar-globant-projectos/compensar_library#readme",
   "devDependencies": {
-    "@artefactos/builder": "^4.0.17"
+    "@compensar-globant-projectos/builder": "^1.0.2"
   },
   "peerDependencies": {
     "react": "^17.0.2"
   },
-  "gitHead": "eb77bfb030a16f4ace8ee95fa374a9c71d075220"
+  "gitHead": "a6fdee52348c5d6000a00019bf8d1dcb68ba7b4c"
 }
