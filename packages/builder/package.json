@@ -13,10 +13,6 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@compensar-globant-projectos"
-  },
-  "repository": "https://github.com/compensar-globant-projectos/compensar_library.git",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^20.0.0",
     "@rollup/plugin-image": "^2.1.0",

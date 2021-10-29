@@ -20,10 +20,10 @@
     "dist",
     "lib"
   ],
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@compensar-globant-projectos"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/compensar-globant-projectos/compensar_library.git"
   },
-  "repository": "https://github.com/compensar-globant-projectos/compensar_library.git",
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
     "build": "rollup --config node_modules/@compensar-globant-projectos/builder/lib/rollup.config.js"
