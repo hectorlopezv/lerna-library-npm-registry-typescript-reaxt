@@ -1,6 +1,6 @@
 {
   "name": "@compensar-globant-projectos/filter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
   "author": "Hector Vinicio Lopez Molinares <hectorvmlopez@gmail.com>",
@@ -20,10 +20,10 @@
     "dist",
     "lib"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/compensar-globant-projectos/compensar_library.git"
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@compensar-globant-projectos"
   },
+  "repository": "https://github.com/compensar-globant-projectos/compensar_library.git",
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
     "build": "rollup --config node_modules/@compensar-globant-projectos/builder/lib/rollup.config.js"
@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/compensar-globant-projectos/compensar_library#readme",
   "devDependencies": {
-    "@compensar-globant-projectos/builder": "^1.0.2",
+    "@compensar-globant-projectos/builder": "^1.0.3",
     "@types/react": "^17.0.15",
     "@types/react-custom-scrollbars": "^4.0.8"
   },
@@ -41,5 +41,5 @@
     "react": "^17.0.2",
     "react-custom-scrollbars": "^4.2.1"
   },
-  "gitHead": "a6fdee52348c5d6000a00019bf8d1dcb68ba7b4c"
+  "gitHead": "d5d4993cd6b322cd57b94f41fd08120e9c55860c"
 }
