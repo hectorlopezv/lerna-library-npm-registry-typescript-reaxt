@@ -1,6 +1,6 @@
 {
   "name": "@compensar-globant-projectos/cards",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
   "author": "Hector Vinicio Lopez Molinares <hectorvmlopez@gmail.com>",
@@ -37,7 +37,7 @@
     "styled-components": "^5.3.0"
   },
   "devDependencies": {
-    "@compensar-globant-projectos/builder": "^1.0.9",
+    "@compensar-globant-projectos/builder": "^1.0.10",
     "@types/styled-components": "^5.1.11"
   },
   "gitHead": "8c0aaf7650ec53daa1971df1701c3d56f4b6703a"
