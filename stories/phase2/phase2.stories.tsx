@@ -1,6 +1,6 @@
 import React from 'react'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
-import {Phase2} from '@artefactos/phase2'
+import {Phase2} from '@compensar-globant-projectos/phase2'
 
 export default {
   title: 'components/Phase2',

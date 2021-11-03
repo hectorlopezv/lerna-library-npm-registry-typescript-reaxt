@@ -1,4 +1,4 @@
-# `@artefactos/card`
+# `@compensar-globant-projectos/card`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const Card = require('@artefactos/card');
+const Card = require('@compensar-globant-projectos/card');
 
 ESM/ES6
-import {Card} from '@artefactos/card'
+import {Card} from '@compensar-globant-projectos/card'
 ```

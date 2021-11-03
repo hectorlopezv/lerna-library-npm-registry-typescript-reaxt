@@ -1,4 +1,4 @@
-# `@artefactos/labelvalue`
+# `@compensar-globant-projectos/labelvalue`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const LabelValue = require('@artefactos/labelvalue');
+const LabelValue = require('@compensar-globant-projectos/labelvalue');
 
 ESM/ES6
-import {LabelValue} from '@artefactos/labelvalue'
+import {LabelValue} from '@compensar-globant-projectos/labelvalue'
 ```

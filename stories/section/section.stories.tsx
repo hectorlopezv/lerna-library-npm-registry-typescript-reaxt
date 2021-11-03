@@ -1,8 +1,8 @@
 import React from 'react'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
-import {Section} from '@artefactos/section'
-import {Phase1} from '@artefactos/phase1'
-import {Phase2} from '@artefactos/phase2'
+import {Section} from '@compensar-globant-projectos/section'
+import {Phase1} from '@compensar-globant-projectos/phase1'
+import {Phase2} from '@compensar-globant-projectos/phase2'
 export default {
   title: 'components/Section',
   component: Section,

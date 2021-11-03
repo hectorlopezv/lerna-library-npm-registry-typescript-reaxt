@@ -1,4 +1,4 @@
-# `@artefactos/paginator`
+# `@compensar-globant-projectos/paginator`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const PaginationPanel = require('@artefactos/paginator');
+const PaginationPanel = require('@compensar-globant-projectos/paginator');
 
 ESM/ES6
-import {PaginationPanel} from '@artefactos/paginator'
+import {PaginationPanel} from '@compensar-globant-projectos/paginator'
 ```

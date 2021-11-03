@@ -1,6 +1,6 @@
 import React from 'react'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
-import {Loader} from '@artefactos/loader'
+import {Loader} from '@compensar-globant-projectos/loader'
 
 export default {
   title: 'components/Loader',

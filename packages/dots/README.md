@@ -1,4 +1,4 @@
-# `@artefactos/dots`
+# `@compensar-globant-projectos/dots`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const SliderTable = require('@artefactos/dots');
+const SliderTable = require('@compensar-globant-projectos/dots');
 
 ESM/ES6
-import {SliderTable} from '@artefactos/dots'
+import {SliderTable} from '@compensar-globant-projectos/dots'
 ```

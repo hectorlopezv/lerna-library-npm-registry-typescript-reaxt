@@ -1,6 +1,6 @@
 import React from 'react'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
-import {Smilef} from '@artefactos/smilef'
+import {Smilef} from '@compensar-globant-projectos/smilef'
 
 export default {
   title: 'components/Smilef',

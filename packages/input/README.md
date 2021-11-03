@@ -1,11 +1,11 @@
-# `@artefactos/input`
+# `@compensar-globant-projectos/input`
 
 > TODO: description
 
 ## Usage
 
 ```
-const input = require('@artefactos/input');
+const input = require('@compensar-globant-projectos/input');
 
 // TODO: DEMONSTRATE API
 ```

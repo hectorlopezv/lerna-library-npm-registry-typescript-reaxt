@@ -1,6 +1,6 @@
 import React from 'react'
 import {render, screen, waitFor} from '@testing-library/react'
-import {FilterSelect} from '@artefactos/filter/lib/filter'
+import {FilterSelect} from '@compensar-globant-projectos/filter/lib/filter'
 import user from '@testing-library/user-event'
 describe('testing suite input Component', () => {
   it('testing input Component', async () => {

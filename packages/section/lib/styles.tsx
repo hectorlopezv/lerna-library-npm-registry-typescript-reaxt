@@ -38,5 +38,9 @@ export const SubTitle = styled.h3`
     }
   }
 `
-
-export const Section = styled.section``
+interface sectionProps {
+  className?: string
+}
+export const Section = styled.section.attrs<sectionProps>(prop => ({
+  className: prop['className'],
+}))``

@@ -1,8 +1,8 @@
 import React from 'react'
 import {render, screen, waitFor} from '@testing-library/react'
 import user from '@testing-library/user-event'
-import {Paginator} from '@artefactos/paginator/lib/paginator'
-import {Download} from '@artefactos/btndown/lib/download'
+import {Paginator} from '@compensar-globant-projectos/paginator/lib/paginator'
+import {Download} from '@compensar-globant-projectos/btndown/lib/download'
 describe('testing suite', () => {
   it('testing unit Paginator', async () => {
     const original = [

@@ -1,4 +1,4 @@
-# `@artefactos/section`
+# `@compensar-globant-projectos/section`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const Section = require('@artefactos/section');
+const Section = require('@compensar-globant-projectos/section');
 
 ESM/ES6
-import {Section} from '@artefactos/section'
+import {Section} from '@compensar-globant-projectos/section'
 ```

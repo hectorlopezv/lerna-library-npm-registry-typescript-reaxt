@@ -1,6 +1,6 @@
 import React from 'react'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
-import {Alertf} from '@artefactos/alertf'
+import {Alertf} from '@compensar-globant-projectos/alertf'
 
 export default {
   title: 'components/Alertf',

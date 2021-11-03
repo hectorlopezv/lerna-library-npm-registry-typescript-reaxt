@@ -1,11 +1,8 @@
 import React from 'react'
-
 import {PaginatorArrows} from './paginatorPanel'
-import {SliderTable} from '@artefactos/dots'
-
+import {SliderTable} from '@compensar-globant-projectos/dots'
 import SimpleBar from 'simplebar' // or "import SimpleBar from 'simplebar';" if you want to use it manually.
 import 'simplebar/dist/simplebar.css'
-
 import {BootstrapTable, TableHeaderColumn} from 'react-bootstrap-table'
 import {
   focusMyInput,
@@ -21,7 +18,6 @@ export interface fieldType {
   width: string
   title: string
 }
-
 export interface ITableProps {
   titleCssOverflowContainer: string
   filename: string

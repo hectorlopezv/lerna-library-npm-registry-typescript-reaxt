@@ -2,7 +2,7 @@ import React from 'react'
 import {render, screen, waitFor} from '@testing-library/react'
 import user from '@testing-library/user-event'
 
-import {PdfFile} from '@artefactos/pdf/lib/pdf'
+import {PdfFile} from '@compensar-globant-projectos/pdf/lib/pdf'
 describe('testing suite', () => {
   beforeEach(() => {
     jest.useFakeTimers()

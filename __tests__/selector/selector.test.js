@@ -1,7 +1,7 @@
 import React from 'react'
 import {render, screen, waitFor} from '@testing-library/react'
 import user from '@testing-library/user-event'
-import {Selector} from '@artefactos/selector/lib/selector'
+import {Selector} from '@compensar-globant-projectos/selector/lib/selector'
 import selectEvent from 'react-select-event'
 describe('testing suite', () => {
   it('testing unit Selector', async () => {

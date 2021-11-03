@@ -1,6 +1,6 @@
 import React from 'react'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
-import {Download} from '@artefactos/btndown'
+import {Download} from '@compensar-globant-projectos/btndown'
 
 export default {
   title: 'components/Download',

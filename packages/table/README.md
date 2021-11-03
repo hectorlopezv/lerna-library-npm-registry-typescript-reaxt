@@ -1,4 +1,4 @@
-# `@artefactos/table`
+# `@compensar-globant-projectos/table`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const Table = require('@artefactos/table');
+const Table = require('@compensar-globant-projectos/table');
 
 ESM/ES6
-import {Table} from '@artefactos/table'
+import {Table} from '@compensar-globant-projectos/table'
 ```

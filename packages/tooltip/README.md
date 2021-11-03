@@ -1,4 +1,4 @@
-# `@artefactos/tooltip`
+# `@compensar-globant-projectos/tooltip`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const ToolTipc = require('@artefactos/tooltip');
+const ToolTipc = require('@compensar-globant-projectos/tooltip');
 
 ESM/ES6
-import {ToolTipc} from '@artefactos/tooltip'
+import {ToolTipc} from '@compensar-globant-projectos/tooltip'
 ```

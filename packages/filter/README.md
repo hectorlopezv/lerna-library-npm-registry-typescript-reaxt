@@ -1,4 +1,4 @@
-# `@artefactos/filter`
+# `@compensar-globant-projectos/filter`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const Filter = require('@artefactos/filter');
+const Filter = require('@compensar-globant-projectos/filter');
 
 ESM/ES6
-import {Filter} from '@artefactos/filter'
+import {Filter} from '@compensar-globant-projectos/filter'
 ```

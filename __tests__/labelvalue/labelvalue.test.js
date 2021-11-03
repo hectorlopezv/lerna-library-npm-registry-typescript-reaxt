@@ -1,6 +1,6 @@
 import React from 'react'
 import {render, screen} from '@testing-library/react'
-import {LabelValue} from '@artefactos/labelvalue/lib/labelvalue'
+import {LabelValue} from '@compensar-globant-projectos/labelvalue/lib/labelvalue'
 describe('testing suite', () => {
   it('testing unit labelvaluerow', async () => {
     const dataAfiliado = [

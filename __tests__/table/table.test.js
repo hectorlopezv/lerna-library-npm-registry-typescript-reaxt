@@ -2,7 +2,7 @@ import React from 'react'
 import {render, screen} from '@testing-library/react'
 import user from '@testing-library/user-event'
 
-import {Table} from '@artefactos/table/lib/table'
+import {Table} from '@compensar-globant-projectos/table/lib/table'
 describe('testing suite', () => {
   it('testing unit Table', () => {
     const fields = [

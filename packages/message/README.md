@@ -1,4 +1,4 @@
-# `@artefactos/message`
+# `@compensar-globant-projectos/message`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const ModalMessage = require('@artefactos/message');
+const ModalMessage = require('@compensar-globant-projectos/message');
 
 ESM/ES6
-import {ModalMessage} from '@artefactos/message'
+import {ModalMessage} from '@compensar-globant-projectos/message'
 ```

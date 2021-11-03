@@ -18,10 +18,10 @@ export const Section: React.FC<Section_SCProps> = ({
   children,
 }) => {
   return (
-    <div ref={setRef} id="section__container" className={className}>
+    <div ref={setRef} id="section__container">
       <MainTitle>{titleContainer}</MainTitle>
       {subTitle && subTitle()}
-      <SectionContainer>{children}</SectionContainer>
+      <SectionContainer className={className}>{children}</SectionContainer>
     </div>
   )
 }

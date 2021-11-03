@@ -1,6 +1,6 @@
 import React from 'react'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
-import {SliderTable} from '@artefactos/dots'
+import {SliderTable} from '@compensar-globant-projectos/dots'
 
 export default {
   title: 'components/Dots',

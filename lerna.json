@@ -6,5 +6,10 @@
   "bootstrap": {
     "npmClientArgs": ["--no-package-lock"]
   },
+  "command": {
+    "publish": {
+      "registry": "https://npm.pkg.github.com/compensar-globant-projectos"
+    }
+  },
   "version": "independent"
 }

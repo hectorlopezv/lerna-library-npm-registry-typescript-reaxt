@@ -1,4 +1,4 @@
-# `@artefactos/pdf`
+# `@compensar-globant-projectos/pdf`
 
 > TODO: description
 
@@ -6,10 +6,10 @@
 
 ```
 CJS
-const PdfFile = require('@artefactos/pdf').PdfFile;
-const Viewer = require('@artefactos/pdf').Viewer;
+const PdfFile = require('@compensar-globant-projectos/pdf').PdfFile;
+const Viewer = require('@compensar-globant-projectos/pdf').Viewer;
 
 ESM/ES6
 import {PdfFile, Viewer}
-from '@artefactos/pdf'
+from '@compensar-globant-projectos/pdf'
 ```

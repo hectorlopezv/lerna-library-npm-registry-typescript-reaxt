@@ -1,7 +1,7 @@
 import React from 'react'
 import {render, screen, waitFor} from '@testing-library/react'
 import user from '@testing-library/user-event'
-import {ModalMessage} from '@artefactos/message/lib/message'
+import {ModalMessage} from '@compensar-globant-projectos/message/lib/message'
 describe('testing suite', () => {
   it('testing unit Messages', async () => {
     let showX = true

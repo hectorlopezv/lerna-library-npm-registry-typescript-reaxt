@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import FaFileArchiveIcon from './FaFileArchiveIcon'
-import {Buttons} from '@artefactos/buttons'
+import {Buttons} from '@compensar-globant-projectos/buttons'
 interface propsZipper {
   tabIndex: number
 }

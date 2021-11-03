@@ -3,7 +3,7 @@ import {Container, Inner} from '../styles'
 import {ControlPanel_SC} from '../ControlPanel'
 import {useRect} from '../hooks'
 import {windowScrollBy, elementScrollTo} from 'seamless-scroll-polyfill'
-import {Loader} from '@artefactos/loader'
+import {Loader} from '@compensar-globant-projectos/loader'
 import {Document, Page, pdfjs} from 'react-pdf'
 // pdfjs.GlobalWorkerOptions.workerSrc = `${process.env.PUBLIC_URL}/scripts/pdf.worker.min.js`;
 //pdfjs.GlobalWorkerOptions.workerSrc = process.env.REACT_APP_PDF_WORKER_URL

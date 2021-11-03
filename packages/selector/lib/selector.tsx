@@ -166,7 +166,7 @@ export const Selector: React.FC<SelectProps> = ({
   value = 'value1',
   type = 'type selector',
   className = '',
-  styles = {stylesDefault},
+  styles = stylesDefault,
   ...props
 }) => {
   return (

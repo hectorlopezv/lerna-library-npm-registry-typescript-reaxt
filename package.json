@@ -7,7 +7,7 @@
       "packages/*"
     ],
     "nohoist": [
-      "**/@artefactos/builder"
+      "**/@compensar-globant-projectos/builder"
     ]
   },
   "main": "index.js",

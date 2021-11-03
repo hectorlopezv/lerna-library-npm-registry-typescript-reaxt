@@ -1,7 +1,7 @@
 import React, {useState} from 'react'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
-import {Paginator} from '@artefactos/paginator'
-import {Download} from '@artefactos/btndown'
+import {Paginator} from '@compensar-globant-projectos/paginator'
+import {Download} from '@compensar-globant-projectos/btndown'
 export default {
   title: 'components/Paginator',
   component: Paginator,

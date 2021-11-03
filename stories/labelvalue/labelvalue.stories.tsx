@@ -1,6 +1,6 @@
 import React from 'react'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
-import {LabelValue} from '@artefactos/labelvalue'
+import {LabelValue} from '@compensar-globant-projectos/labelvalue'
 
 export default {
   title: 'components/LabelValue',

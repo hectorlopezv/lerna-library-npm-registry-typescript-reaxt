@@ -1,4 +1,4 @@
-# `@artefactos/alertf`
+# `@compensar-globant-projectos/alertf`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const alertf = require('@artefactos/alertf');
+const alertf = require('@compensar-globant-projectos/alertf');
 
 ESM/ES6
-import {Alertf} from '@artefactos/alertf'
+import {Alertf} from '@compensar-globant-projectos/alertf'
 ```

@@ -1,4 +1,4 @@
-# `@artefactos/selector`
+# `@compensar-globant-projectos/selector`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const Selector = require('@artefactos/selector');
+const Selector = require('@compensar-globant-projectos/selector');
 
 ESM/ES6
-import {Selector} from '@artefactos/selector'
+import {Selector} from '@compensar-globant-projectos/selector'
 ```

@@ -1,4 +1,4 @@
-# `@artefactos/smilef`
+# `@compensar-globant-projectos/smilef`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const Smilef = require('@artefactos/smilef');
+const Smilef = require('@compensar-globant-projectos/smilef');
 
 ESM/ES6
-import {Smilef} from '@artefactos/smilef'
+import {Smilef} from '@compensar-globant-projectos/smilef'
 ```

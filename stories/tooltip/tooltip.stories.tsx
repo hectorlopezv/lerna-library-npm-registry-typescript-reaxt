@@ -1,6 +1,6 @@
 import React from 'react'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
-import {ToolTipc} from '@artefactos/tooltip'
+import {ToolTipc} from '@compensar-globant-projectos/tooltip'
 
 export default {
   title: 'components/ToolTipc',

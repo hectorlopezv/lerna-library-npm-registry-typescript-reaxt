@@ -3,8 +3,8 @@
 # npx react-codemod rename-unsafe-lifecycles
 
 ```
-./create_component @artefactos/mockcomponent ---> create component
-lerna add --peer/--dev dependency --scope=@artefactos/packagename ---> add new library to already existing package
+./create_component @compensar-globant-projectos/mockcomponent ---> create component
+lerna add --peer/--dev dependency --scope=@compensar-globant-projectos/packagename ---> add new library to already existing package
 lerna publish --force-publish ---> force publishing all packages
 install playground depencies on root package.json.(yarn and lerna will do the magic)
 dont forget to add dependecies on packages with lerna...

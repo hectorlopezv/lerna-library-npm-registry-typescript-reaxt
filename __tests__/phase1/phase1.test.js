@@ -1,6 +1,6 @@
 import React from 'react'
 import {render, screen} from '@testing-library/react'
-import {Phase1} from '@artefactos/phase1/lib/phase1'
+import {Phase1} from '@compensar-globant-projectos/phase1/lib/phase1'
 describe('testing suite', () => {
   it('testing unit Phase1', async () => {
     const {rerender} = render(

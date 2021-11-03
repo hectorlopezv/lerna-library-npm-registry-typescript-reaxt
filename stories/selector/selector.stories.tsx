@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
-import {Selector} from '@artefactos/selector'
+import {Selector} from '@compensar-globant-projectos/selector'
 
 export default {
   title: 'components/Selector',

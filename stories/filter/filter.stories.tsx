@@ -1,6 +1,6 @@
 import React, {useRef, useState} from 'react'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
-import {FilterSelect} from '@artefactos/filter'
+import {FilterSelect} from '@compensar-globant-projectos/filter'
 
 export default {
   title: 'components/FilterSelect',

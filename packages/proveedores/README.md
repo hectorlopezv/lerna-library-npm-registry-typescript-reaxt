@@ -1,4 +1,4 @@
-# `@artefactos/proveedores`
+# `@compensar-globant-projectos/proveedores`
 
 > TODO: description
 
@@ -6,9 +6,9 @@
 
 ```
 CJS
-const Download = require('@artefactos/proveedores').Download;
-const AlertF = require('@artefactos/proveedores').AlertF;
+const Download = require('@compensar-globant-projectos/proveedores').Download;
+const AlertF = require('@compensar-globant-projectos/proveedores').AlertF;
 
 ESM/ES6
-import {Download, AlertF, ...} from '@artefactos/proveedores'
+import {Download, AlertF, ...} from '@compensar-globant-projectos/proveedores'
 ```

@@ -1,4 +1,4 @@
-# `@artefactos/infouser`
+# `@compensar-globant-projectos/infouser`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const InfoUser = require('@artefactos/infouser');
+const InfoUser = require('@compensar-globant-projectos/infouser');
 
 ESM/ES6
-import {InfoUser} from '@artefactos/infouser'
+import {InfoUser} from '@compensar-globant-projectos/infouser'
 ```

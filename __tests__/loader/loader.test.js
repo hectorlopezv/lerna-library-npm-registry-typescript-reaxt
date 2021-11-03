@@ -1,6 +1,6 @@
 import React from 'react'
 import {render, screen} from '@testing-library/react'
-import {Loader} from '@artefactos/loader/lib/loader'
+import {Loader} from '@compensar-globant-projectos/loader/lib/loader'
 describe('testing suite', () => {
   it('testing unit Loader', () => {
     const {rerender} = render(<Loader loading={1} noBack={1} />)

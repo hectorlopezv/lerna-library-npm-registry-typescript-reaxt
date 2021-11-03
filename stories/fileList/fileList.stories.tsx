@@ -1,6 +1,6 @@
 import React from 'react'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
-import {FileList} from '@artefactos/filelist'
+import {FileList} from '@compensar-globant-projectos/filelist'
 //Left Arrrow
 interface LeftArrowProps {
   title?: string

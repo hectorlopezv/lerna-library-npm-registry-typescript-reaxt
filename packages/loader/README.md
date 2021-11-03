@@ -1,4 +1,4 @@
-# `@artefactos/loader`
+# `@compensar-globant-projectos/loader`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const Loader = require('@artefactos/loader');
+const Loader = require('@compensar-globant-projectos/loader');
 
 ESM/ES6
-import {Loader} from '@artefactos/loader'
+import {Loader} from '@compensar-globant-projectos/loader'
 ```

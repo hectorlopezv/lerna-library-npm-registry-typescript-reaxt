@@ -1,4 +1,4 @@
-# `@artefactos/date`
+# `@compensar-globant-projectos/date`
 
 > TODO: description
 
@@ -6,8 +6,8 @@
 
 ```
 CJS
-const Date = require('@artefactos/date');
+const Date = require('@compensar-globant-projectos/date');
 
 ESM/ES6
-import {Date} from '@artefactos/date'
+import {Date} from '@compensar-globant-projectos/date'
 ```

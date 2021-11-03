@@ -1,5 +1,5 @@
 import React from 'react'
-import {DragDropFile} from '@artefactos/draganddropfile'
+import {DragDropFile} from '@compensar-globant-projectos/draganddropfile'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
 
 export default {

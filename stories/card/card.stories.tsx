@@ -1,7 +1,7 @@
 import React from 'react'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
-import {Card} from '@artefactos/card'
-import {Cards} from '@artefactos/cards'
+import {Card} from '@compensar-globant-projectos/card'
+import {Cards} from '@compensar-globant-projectos/cards'
 import {HashRouter, Switch, Route} from 'react-router-dom'
 
 export default {

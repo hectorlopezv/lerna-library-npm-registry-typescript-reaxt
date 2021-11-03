@@ -1,6 +1,6 @@
 import React from 'react'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
-import {Cards} from '@artefactos/cards'
+import {Cards} from '@compensar-globant-projectos/cards'
 
 export default {
   title: 'components/Cards',

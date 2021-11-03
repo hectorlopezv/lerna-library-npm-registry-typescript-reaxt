@@ -1,6 +1,6 @@
 import React from 'react'
 import {render, screen} from '@testing-library/react'
-import {InfoUser} from '@artefactos/infouser/lib/infouser'
+import {InfoUser} from '@compensar-globant-projectos/infouser/lib/infouser'
 describe('testing suite', () => {
   it('testing unit inforUser', async () => {
     const transformUserInfo = jest.fn(() => {

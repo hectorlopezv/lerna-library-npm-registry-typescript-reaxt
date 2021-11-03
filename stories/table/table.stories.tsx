@@ -1,6 +1,6 @@
 import React from 'react'
 import {ComponentStory, ComponentMeta} from '@storybook/react'
-import {Table} from '@artefactos/table'
+import {Table} from '@compensar-globant-projectos/table'
 
 export default {
   title: 'components/Table',
