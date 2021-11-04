@@ -1,6 +1,6 @@
 {
   "name": "@compensar-globant-projectos/selector",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
   "author": "Hector Vinicio Lopez Molinares <hectorvmlopez@gmail.com>",
@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/compensar-globant-projectos/compensar_library#readme",
   "devDependencies": {
-    "@compensar-globant-projectos/builder": "^1.0.11",
+    "@compensar-globant-projectos/builder": "^1.0.12",
     "@types/react-custom-scrollbars": "^4.0.8",
     "@types/react-select": "^4.0.17"
   },
@@ -42,5 +42,5 @@
     "react-custom-scrollbars": "^4.2.1",
     "react-select": "^4.3.1"
   },
-  "gitHead": "d52e8d984ecbbca55b7fbf2731a28edff84d56f9"
+  "gitHead": "6e0d46a5e431fb33d8a82ccdf5fe9e4815af971d"
 }
