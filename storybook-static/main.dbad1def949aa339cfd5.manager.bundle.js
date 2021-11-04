@@ -15315,14 +15315,12 @@
                   0 !== nonLeafChildren.length)
                 )
                   throw new Error(
-                    "Unexpected '"
-                      .concat(item.id, "': ")
-                      .concat(
-                        JSON.stringify({
-                          isComponent: isComponent,
-                          nonLeafChildren: nonLeafChildren,
-                        }),
-                      ),
+                    "Unexpected '".concat(item.id, "': ").concat(
+                      JSON.stringify({
+                        isComponent: isComponent,
+                        nonLeafChildren: nonLeafChildren,
+                      }),
+                    ),
                   )
                 return component
               })
