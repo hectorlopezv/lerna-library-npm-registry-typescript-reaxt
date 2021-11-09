@@ -17,7 +17,7 @@ module.exports = {
     'less',
     // 'scss',
     'html',
-    'json',
+    // 'json',
     'graphql',
     // 'md',
     'markdown',
